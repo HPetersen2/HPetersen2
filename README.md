@@ -2,8 +2,7 @@
 
 ###
 
-<p align="left">Softwareentwickler Frontend (IHK)</p>
-<p align="left">Fullstack Entwickler</p>
+<p align="left">Softwareentwickler Frontend (IHK) und Backendentwickler</p>
 
 ###
 
