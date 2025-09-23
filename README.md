@@ -30,26 +30,26 @@
 
 <h3> Frontend</h3>
 <p align="left">
-  <img src="./assets/HTML5_logo_and_workmark.svg.png" height="32" alt="HTML" style="margin-right:8px;" />
-  <img src="./assets/skill_icons/CSS.png" height="32" alt="CSS" style="margin-right:8px;" />
-  <img src="./assets/skill_icons/ts.png" height="32" alt="TypeScript" style="margin-right:8px;" />
-  <img src="./assets/skill_icons/js.png" height="32" alt="JavaScript" style="margin-right:8px;" />
-  <img src="./assets/skill_icons/Angular_new.png" height="32" alt="Angular" style="margin-right:8px;" />
-  <img src="./assets/skill_icons/firebase.png" height="32" alt="Firebase" />
+  <img src="./assets/html5-original.svg" height="32" alt="HTML" style="margin-right:8px;" />
+  <img src="./assets/css3-original.svg" height="32" alt="CSS" style="margin-right:8px;" />
+  <img src="./assets/typescript-original.svg" height="32" alt="TypeScript" style="margin-right:8px;" />
+  <img src="./assets/javascript-original.svg" height="32" alt="JavaScript" style="margin-right:8px;" />
+  <img src="./assets/angularjs-original.svg" height="32" alt="Angular" style="margin-right:8px;" />
+  <img src="./assets/firebase-plain.svg" height="32" alt="Firebase" />
 </p>
 
 <h3> Backend</h3>
 <p align="left">
   <img src="./assets/skill_icons/rest_api.png" height="32" alt="REST API" />
-  <img src="./assets/skill_icons/Python.png" height="32" alt="Python" style="margin-right:8px;" />
-  <img src="./assets/skill_icons/Django.png" height="32" alt="Django" style="margin-right:8px;" />
+  <img src="./assets/python-original.svg" height="32" alt="Python" style="margin-right:8px;" />
+  <img src="./assets/django.svg" height="32" alt="Django" style="margin-right:8px;" />
 </p>
 
 <h3> Dev-Tools</h3>
 <p align="left">
-  <img src="./assets/skill_icons/git.png" height="32" alt="Git" />
-  <img src="./assets/skill_icons/Figma.png" height="32" alt="Figma" />
-  <img src="./assets/skill_icons/Jira.png" height="32" alt="Jira" />
+  <img src="./assets/git-original.png" height="32" alt="Git" />
+  <img src="./assets/figma-original.svg" height="32" alt="Figma" />
+  <img src="./assets/filezilla-plain.svg" height="32" alt="FileZilla" />
 </p>
 
 ###
