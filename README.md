@@ -30,7 +30,7 @@
 
 <h3> Frontend</h3>
 <p align="left">
-  <img src="./assets/skill_icons/html.png" height="32" alt="HTML" style="margin-right:8px;" />
+  <img src="./assets/HTML5_logo_and_workmark.svg.png" height="32" alt="HTML" style="margin-right:8px;" />
   <img src="./assets/skill_icons/CSS.png" height="32" alt="CSS" style="margin-right:8px;" />
   <img src="./assets/skill_icons/ts.png" height="32" alt="TypeScript" style="margin-right:8px;" />
   <img src="./assets/skill_icons/js.png" height="32" alt="JavaScript" style="margin-right:8px;" />
