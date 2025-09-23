@@ -32,24 +32,27 @@
 <p align="left">
   <img src="./assets/html5-original.svg" height="32" alt="HTML" style="margin-right:8px;" />
   <img src="./assets/css3-original.svg" height="32" alt="CSS" style="margin-right:8px;" />
-  <img src="./assets/typescript-original.svg" height="32" alt="TypeScript" style="margin-right:8px;" />
+  <img src="./assets/bootstrap-original.svg" height="32" alt="BootStrap" style="margin-right:8px;" />
   <img src="./assets/javascript-original.svg" height="32" alt="JavaScript" style="margin-right:8px;" />
+  <img src="./assets/typescript-original.svg" height="32" alt="TypeScript" style="margin-right:8px;" />
   <img src="./assets/angularjs-original.svg" height="32" alt="Angular" style="margin-right:8px;" />
   <img src="./assets/firebase-plain.svg" height="32" alt="Firebase" />
 </p>
 
 <h3> Backend</h3>
 <p align="left">
-  <img src="./assets/skill_icons/rest_api.png" height="32" alt="REST API" />
+  <img src="./assets/rest-api.svg" height="32" alt="REST API" />
   <img src="./assets/python-original.svg" height="32" alt="Python" style="margin-right:8px;" />
   <img src="./assets/django.svg" height="32" alt="Django" style="margin-right:8px;" />
 </p>
 
 <h3> Dev-Tools</h3>
 <p align="left">
-  <img src="./assets/git-original.png" height="32" alt="Git" />
-  <img src="./assets/figma-original.svg" height="32" alt="Figma" />
+  <img src="./assets/vscode-original.svg" height="32" alt="VS Code" />
+  <img src="./assets/git-original.svg" height="32" alt="Git" />
   <img src="./assets/filezilla-plain.svg" height="32" alt="FileZilla" />
+  <img src="./assets/figma-original.svg" height="32" alt="Figma" />
+  <img src="./assets/postman-original.svg" height="32" alt="Postman" />
 </p>
 
 ###
