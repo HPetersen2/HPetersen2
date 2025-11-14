@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Softwareentwickler Frontend (IHK) und Backendentwickler</p>
+<p align="left">Softwareentwickler Frontend (IHK) und Backend</p>
 
 ###
 
